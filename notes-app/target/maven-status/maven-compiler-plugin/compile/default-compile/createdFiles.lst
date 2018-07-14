@@ -1,0 +1,9 @@
+com\tipico\assignment\notesapp\NotesAppApplication.class
+com\tipico\assignment\notesapp\bean\GetNotesResponse.class
+com\tipico\assignment\notesapp\bean\NotesBean.class
+com\tipico\assignment\notesapp\repository\NotesRepository.class
+com\tipico\assignment\notesapp\entity\Note.class
+com\tipico\assignment\notesapp\ServletInitializer.class
+com\tipico\assignment\notesapp\rest\NotesController.class
+com\tipico\assignment\notesapp\NotesCommandLineRunner.class
+com\tipico\assignment\notesapp\service\NotesService.class
